@@ -1,15 +1,13 @@
 ---
-title: Test
+title: Gideon Miller
 ---
 
-Hello World
+# Gideon Miller agent model
 
-shalom
+[Final model.py](https://github.com/gideonmiller1998/Geog5990/blob/main/model.py)
 
-**hyuhyh**
+[Final Agentframework.py](https://github.com/gideonmiller1998/Geog5990/blob/main/agentframework.py)
 
-```python
-print("hujuj")
-```
+[Full Repositry](https://github.com/gideonmiller1998/Geog5990)
 
 ![Example model](docs\Assets\agents_animation.gif)
