@@ -12,4 +12,4 @@ shalom
 print("hujuj")
 ```
 
-![Example model animation](C:\Users\gideo\OneDrive\uni\masters\5990\gideonmiller1998.github.io\agents_animation.gif)
+![Example model](docs\Assets\agents_animation.gif)
